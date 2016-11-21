@@ -10,5 +10,8 @@
         {
             "url": "https://github.com/heroku/heroku-buildpack-go"
         }
-    ]
+    ],
+    "scripts": {
+        "test": "govendor test +local"
+    }
 }
