@@ -5,5 +5,10 @@
         "golang",
         "web application"
     ],
-    "repository": "https://github.com/plispe/go-skeleton"
+    "repository": "https://github.com/plispe/go-skeleton",
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-go"
+        }
+    ]
 }
