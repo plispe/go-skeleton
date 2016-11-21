@@ -1,0 +1,9 @@
+{
+    "name": "Go skeleton",
+    "description": "Skeleton for golang web application",
+    "keywords": [
+        "golang",
+        "web application"
+    ],
+    "repository": "https://github.com/plispe/go-skeleton"
+}
