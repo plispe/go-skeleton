@@ -1,3 +1,5 @@
 .env
 
 go-skelleton
+
+vendor/*/
